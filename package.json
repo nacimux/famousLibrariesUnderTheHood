@@ -1,0 +1,16 @@
+{
+  "name": "simplereduxfromscratch",
+  "version": "1.0.0",
+  "description": "Redux personal implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Javascript",
+    "ES6+"
+  ],
+  "author": "Nacim Idjakirene",
+  "license": "ISC"
+}
