@@ -1,6 +1,7 @@
 
 
   # TODOS
-  - [ ] Complete the "readme" file
-  - [ ] Implentent the combineReducer function
-  - [ ] add testing files
+  - [ ]  react / React.createElement
+  - [ ] redux / Add the combineReducer function to redux.js
+  - [ ] React / reconciliation (diffing algorithm)
+  - [ ] react / fiber 
